@@ -53,7 +53,7 @@ Manages event participants.
 * Tables and relationships defined with **primary keys & foreign keys**.  
 * Handles potential **duplication errors** (if database/tables already exist).  
 
-### 🔎 **SQL Queries for Data Retrieval**  
+### **SQL Queries for Data Retrieval**  
 * **Retrieve pets available for adoption** along with details.
 * **List participants** for a given adoption event.
 * **Retrieve shelters and their respective donations** (Total donation amount per shelter).
